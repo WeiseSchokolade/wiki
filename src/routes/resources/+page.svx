@@ -171,7 +171,7 @@ Datapacks.
 ## Mods
 
 - <Highlight color="#832161">Mod</Highlight>
-  <a href="https://modrinth.com/mod/datamancer">Datamancer</a> - A tool for
+  <a href="https://modrinth.com/mod/datamancer">Datamancer</a> - A mod for
   datapack devs with several features, such as function profiling &
   benchmarking, marker goggles, datapack autoreloading and more.
 - <Highlight color="#832161">Mod</Highlight>
@@ -184,3 +184,22 @@ Datapacks.
 - <Highlight color="#832161">Mod</Highlight>
   <a href="https://modrinth.com/mod/nbt-autocomplete">NBT Autocomplete</a> -
   Adds suggestions for NBT tags in commands.
+
+## Datapack generators
+- <Highlight color="#8445cf">Generator</Highlight>
+  <a href="https://sandstone.dev/">Sandstone</a> - A typescript
+  based generator.
+- <Highlight color="#8445cf">Generator</Highlight>
+  <a href="https://kore.ayfri.com/">Kore</a> - A kotlin library providing
+  a type-safe syntax abstraction and a rich standard library.
+- <Highlight color="#8445cf">Generator</Highlight>
+  <a href="https://mcbeet.dev/">Beet</a> - A python development kit serving as a
+  basis for tooling pipelines.
+
+## IDE Extensions
+- <Highlight color="#2190b0">IDE Extension</Highlight>
+  <a href="https://marketplace.visualstudio.com/items?itemName=SPGoding.datapack-language-server">Datapack Helper Plus</a> -
+  Visual Studio Code plugin offering syntax highlighting, auto-completion and vanilla data types.
+- <Highlight color="#2190b0">IDE Extension</Highlight>
+  <a href="https://marketplace.visualstudio.com/items?itemName=Papierkorb2292.commandcrafter">CommandCrafter</a> -
+  A VSC plugin/Fabric Mod providing integrated syntax highlighting, auto-completion and debugging tools.
